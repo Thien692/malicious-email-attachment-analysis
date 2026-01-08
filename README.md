@@ -70,8 +70,7 @@ The email was sent using **Microsoft Exchange Online**, confirmed through mail s
 - **SHA-256 hash:**
 41c3dd4e9f794d53c212398891931760de469321e4c5d04be719d5485ed8f53e
 
-yaml
-Copy code
+
 
 ---
 
