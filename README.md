@@ -90,14 +90,10 @@ This classification indicates a malicious document capable of acting as a malwar
 **Attachment Filename**
 AR_Wedding_RSVP.docm
 
-markdown
-Copy code
 
 **SHA-256 Hash**
 41c3dd4e9f794d53c212398891931760de469321e4c5d04be719d5485ed8f53e
 
-markdown
-Copy code
 
 **Sender Email**
 abarry@live.com
