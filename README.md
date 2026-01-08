@@ -133,6 +133,14 @@ To prevent accidental execution of malicious content and protect sensitive data,
 All relevant artifacts, screenshots, and supporting evidence are documented in the linked investigation issue.
 
 ---
+---
+
+## Supporting Evidence
+
+Detailed supporting evidence, command output, and threat intelligence findings for this investigation are documented in the following GitHub issue:
+
+- **Evidence: Malicious DOCM Email Attachment Analysis**  
+  https://github.com/Thien692/malicious-email-attachment-analysis/issues/1
 
 ## Disclaimer
 
