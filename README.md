@@ -102,8 +102,6 @@ Copy code
 **Sender Email**
 abarry@live.com
 
-yaml
-Copy code
 
 ---
 
